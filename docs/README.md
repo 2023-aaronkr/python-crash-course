@@ -1,1 +1,3 @@
-# Welcome to Python!
+---
+title: Welcome to Python!
+---

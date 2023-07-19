@@ -47,17 +47,17 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 
 ## Course Topics / 과정 화제
 
-| Chp | 화제                                                            |
-| :-: | :-------------------------------------------------------------- |
-|  1  | [Getting Started / 시작하기](/lessons/01.html)                  |
-|  2  | [Variables & Data Types / 변수와 데이터 타입](/lessons/02.html) |
-|  3  | [Lists 1 / 리스트 1](/lessons/03.html)                          |
-|  4  | [Lists 2 / 리스트 2](/lessons/04.html)                          |
-|  5  | [If Statements / 조건문)](/lessons/05.html)                     |
-|  6  | [Dictionaries / 사전](/lessons/06.html)                         |
-|  7  | [User Input / 사용자 입력](/lessons/07.html)                    |
-|  8  | [Functions / 함수](/lessons/08.html)                            |
-|  9  | [Classes / 클래스](/lessons/09.html)                            |
+| Chp | 화제                                                           |
+| :-: | :------------------------------------------------------------- |
+|  1  | [Getting Started / 시작하기](lessons/01.html)                  |
+|  2  | [Variables & Data Types / 변수와 데이터 타입](lessons/02.html) |
+|  3  | [Lists 1 / 리스트 1](lessons/03.html)                          |
+|  4  | [Lists 2 / 리스트 2](lessons/04.html)                          |
+|  5  | [If Statements / 조건문)](lessons/05.html)                     |
+|  6  | [Dictionaries / 사전](lessons/06.html)                         |
+|  7  | [User Input / 사용자 입력](lessons/07.html)                    |
+|  8  | [Functions / 함수](lessons/08.html)                            |
+|  9  | [Classes / 클래스](lessons/09.html)                            |
 
 ### Instructor / 교수
 

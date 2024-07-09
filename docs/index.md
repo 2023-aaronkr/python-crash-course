@@ -3,7 +3,7 @@ title: Welcome to Python!
 ---
 
 <p id="menu" align="center">
-  <a href="https://ut-aaronkr.github.io/python-crash-course" title="Home">🏠</a> |
+  <a href="https://2023-aaronkr.github.io/python-crash-course" title="Home">🏠</a> |
   <a href="lessons/01.html" title="Getting Started / 시작하기">01</a> |
   <a href="lessons/02.html" title="Variables & Data Types / 변수와 데이터 타입">02</a> |
   <a href="lessons/03.html" title="Lists 1 / 리스트 1">03</a> |

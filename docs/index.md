@@ -12,7 +12,7 @@ title: Welcome to Python!
   <a href="lessons/06.html" title="Dictionaries / 사전">06</a> |
   <a href="lessons/07.html" title="User Input / 사용자 입력">07</a> |
   <a href="lessons/08.html" title="Functions / 함수">08</a> |
-  <a href="lessons/09.html" title="Classes / 클래스">09</a>
+  <a href="lessons/09.html" title="Classes / 클래스">09</a> | 
   <a href="https://github.com/aaronkr-courses/PyProject" title="Projects / 프로젝트">Projects</a>
 </p>
 

@@ -1,42 +1,52 @@
 # pizza.py
 
-import random as r
+import random as r 
 
-msg = 'Welcome to Mr. Pizza!'
-msg += '====================='
+loc = "Domino's"
+
+# 제목 출력하기
+msg = "|======================|"
+msg += "\n| Welcome to " + loc + "! |"
+msg += "\n|======================|"
 print(msg)
 
-my_toppings = [] # 리스트
-available_toppings = [
-    'mushrooms', 'olives', 'green peppers',
-    'pepperoni', 'pineapple', 'cheese',
-    'sausage', 'onions', 'hamburger'
+# 주문하기
+my_toppings = []
+have_toppings = [
+    'pepperoni', 'ham', 'potato',
+    'extra cheese', 'cheddar cheese',
+    'mushrooms', 'onions', 'pineapple'
     ]
 
-# Take Order
-while(1):
-    topping = input('What toppings do you want? \'Q\' to quit: ')
+# 사용자 입력 받기
+while(1): # True
+    topping = input("What topping do you want? 'Q' to quit: ")
 
     if topping.lower() == 'q':
         break
 
     my_toppings.append(topping)
 
-# Repeat Order
-print("You want: ")
+# 주문 확인하기
+print("You ordered: ")
 
-for i, t in enumerate(my_toppings):
-    print(f"{i+1}. {t.title()}")
-    
-    if t in available_toppings:
-        print(f"Adding {t}.")
+for i, topping in enumerate(my_toppings):
+    print(f"{i+1}. {topping.title()}")
+
+    # 토핑 있는지 확인
+    if topping in have_toppings:
+        print(f"Adding {topping}.")
     else:
-        print(f"Sorry, no {t}.")
+        print(f"Sorry, no {topping}.")
 
-min = r.randint(20,40)
-print(f"Order delivery in {min}min.")
-    
-    
+# 배달 시간 알려주기
+time = r.randint(15, 40)
+print(f"Order delivery in {time} mins!")
+
+
+
+
+
 
 
 
